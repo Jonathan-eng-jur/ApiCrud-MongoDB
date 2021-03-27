@@ -7,7 +7,7 @@ Como usar essa aplicação:
 2. Iniciar o seu MongoDB localmente, nossa base de dados está nomeada como "mongodb_crud";
 3. Iniciar a aplicação no Eclipse ou STS;
 4. Para testar efetivamente nossa API, sugiro utilizar o Postman (collection disponível neste repositório). Nossos endponts são: 
- 1. http://localhost:8080/usuarios GET;
- 2. http://localhost:8080/cadastrar POST;
- 3. http://localhost:8080/alterar - PUT;
- 4. http://localhost:8080/deletar - DELETE;
+ I - http://localhost:8080/usuarios GET;
+ II - http://localhost:8080/cadastrar POST;
+ III -  http://localhost:8080/alterar - PUT;
+ IV - http://localhost:8080/deletar - DELETE;
